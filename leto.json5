@@ -1,0 +1,21 @@
+{   "name": "express-mongo",
+    "version": "0.0.0",                                                   
+    "github": {                                                           
+        "user": "ZECTBynmo",                                              
+        "repo": "express_base"
+    }, 
+
+    "procedure": [
+        {   "title": "Replace some text",
+            "type": "replace",
+
+            "keywords": {
+                "main_heading": "Main Heading",
+            }
+        },
+    ],
+
+    "defaults": { 
+        "main_heading": "Main Heading"
+    }
+}
